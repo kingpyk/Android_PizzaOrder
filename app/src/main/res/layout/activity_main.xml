@@ -89,14 +89,14 @@
         android:layout_height="wrap_content">
 
         <RadioButton
-            android:text="RadioButton"
+            android:text="피클 선택"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/rb"
             android:layout_weight="1" />
 
         <RadioButton
-            android:text="RadioButton"
+            android:text="소스 선택"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/rb2"
